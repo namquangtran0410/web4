@@ -1,0 +1,379 @@
+body{
+
+}
+header{
+}
+.top img{
+	max-width: 1.5rem;
+}
+.top {
+	background-color: #F0FFFF;
+}
+.top .notice{
+	font-family: arial;
+	text-align: right;
+	position: absolute;
+	top: 1rem;
+	right: 2px;
+	cursor: pointer;
+	font-size: 0.9rem;
+
+	
+}
+.logo img{
+	max-width: 5rem;
+	top:1rem;
+}
+.photo img{
+	
+	padding-top: 1rem;
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 95%;
+
+
+}
+.photo .tieude1{ 
+	color: #FFF;
+	position: absolute;
+	bottom: 17rem;
+	right: 7rem;
+	font-family: Comic Sans MS ;
+	font-size: 1.3rem;
+}
+.photo .tieude2{
+	color: #FFF;
+	position: absolute;
+	bottom:5rem;
+	right: 7rem;
+	font-family: Georgia ;
+	font-size: 3.8rem;
+	word-wrap: break-word;
+
+}
+.photo .tieude3{
+	color: #FFF;
+	position: absolute;
+	bottom:0rem;
+	right: 7rem;
+	font-family: Georgia ;
+	font-size: 3.8rem;
+	word-wrap: break-word;
+
+}
+.photo .shop{
+	position: absolute;
+	border-radius: 1rem;
+	bottom:-1rem;
+	right:7rem;
+	height: 2.5rem;
+	width: 5rem;
+	border: 0;
+	background-color: #FFF;
+	cursor: pointer;
+
+}
+.logo {
+
+}
+.logo span{
+	padding-top: 1rem;
+	flex-direction:column;
+	cursor: pointer;
+	padding:1rem;
+	margin-left: 6rem;
+	font-family: arial;
+	font-size: 1rem;
+
+}
+.logo .search1 input{
+	position: absolute;
+	width:10rem;
+	border-radius:1rem ;
+	height: 2rem;
+	top:4rem;
+	right: 6rem;
+}
+.logo .search1 button{
+	position:absolute;
+	width:4rem;
+	border-radius:1rem;
+	height: 2rem;
+	top:4rem;
+	right:2rem;
+	cursor: pointer;
+}
+
+
+.trending1{
+	font-family: arial;
+	font-size: 1.8rem;
+	padding-bottom: 0.5rem;
+	padding-top: 2rem;
+	padding-left: 2rem;
+
+}
+
+.tab2 .trending2 img{
+	
+	display: flex;
+	display: block;
+	max-width: 48rem;
+	max-height: 48rem;
+    padding-left:2rem;
+    cursor: pointer;
+}	
+.tab2 .trending3 img{
+	position: absolute;
+	display: flex;
+	max-width: 46.8rem;
+	height: 48rem;
+    padding-left: 20rem;
+    top:71.7rem;
+    right: 3rem;
+    cursor: pointer;
+}
+
+.FT {
+
+	font-family: arial;
+	font-size: 1.8rem;
+	padding-bottom: 0.5rem;
+	padding-top: 2rem;
+	padding-left: 2.1rem;
+}
+.tab3 img{
+	
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 95%;
+
+}
+.info h1{
+	position: absolute;
+	font-family: Georgia;
+	font-size: 5rem;
+	top:122.5rem;
+	padding-left:5rem;
+	color:white;
+}
+.info .step{
+	position: absolute;
+	font-family: arial;
+	font-size: 1.25rem;
+	top:131rem;
+	padding-left: 5rem;
+	color: white;
+}
+.info .shop{
+	position: absolute;
+	border-radius: 1rem;
+	left:5rem;
+	height: 2.5rem;
+	width: 5rem;
+	border: 0;
+	top:134rem;
+	font-family: arial;
+	background-color: #FFF;
+	cursor: pointer;
+}
+.Best {
+	font-family: arial;
+	font-size: 1.8rem;
+	padding-bottom: 0.5rem;
+	padding-top: 3rem;
+	padding-left: 2.1rem;
+	margin-top: 2rem; 
+}
+
+.tab4{
+	display: flex;
+	margin-left: 2rem;
+
+}
+.tab4 .tab41 img{
+	cursor: pointer;
+	max-width: 90%
+}
+.tab4 .tab41 .Price button{
+	margin-left: 12rem;
+	width: 5rem;
+	height: 2rem;
+}
+.tab4 .tab41 .Price span{
+	font-family: Arial;
+	font-size: 1rem;
+}
+.tab4 .tab41 .Price h1{
+	font-family: Arial;
+	font-size: 1rem;
+	color:gray;
+}
+
+.tab4 .tab42 img{
+	cursor: pointer;
+	max-width: 90%
+}
+.tab4 .tab42 .Price2 button{
+	margin-left: 12rem;
+	width: 5rem;
+	height: 2rem;
+}
+.tab4 .tab42 .Price2 span{
+	font-family: Arial;
+	font-size: 1rem;
+}
+.tab4 .tab42 .Price2 h1{
+	font-family: Arial;
+	font-size: 1rem;
+	color:gray;
+}
+.tab4 .tab43 .Price3 button{
+	margin-left: 12rem;
+	width: 5rem;
+	height: 2rem;
+}
+.tab4 .tab43 img{
+	cursor: pointer;
+	max-width: 90%
+}
+.tab4 .tab43 .Price3 span{
+	font-family: Arial;
+	font-size: 1rem;
+}
+.tab4 .tab43 .Price3 h1{
+	font-family: Arial;
+	font-size: 1rem;
+	color:gray;
+
+}
+
+.tab5{
+	display: flex;
+	margin-left: 2.5rem;
+}
+
+.tab5 .tab51 img{
+	display: flex;
+	display: block;
+	max-width: 35rem;
+	max-height: 35rem;
+    padding-left:0rem;
+    cursor: pointer;
+    
+	
+}
+.tab5 .tab51 button{
+	position: absolute;
+	border-radius: 1rem;
+	left:10rem;
+	height: 2.5rem;
+	width: 5rem;
+	border: 0;
+	top:260rem;
+	font-family: arial;
+	background-color: #FFF;
+	cursor: pointer;
+
+}
+
+.tab5 .tab53 img{
+	position: absolute;
+	display: flex;
+	max-width: 35rem;
+	height: 35rem;
+    padding-left: 20rem;
+    top:229.3rem;
+    right: 33rem;
+    cursor: pointer;
+}	
+.tab5 .tab53 button{
+	position: absolute;
+	border-radius: 1rem;
+	right:47rem;
+	height: 2.5rem;
+	width: 5rem;
+	border: 0;
+	top:260rem;
+	font-family: arial;
+	background-color: #FFF;
+	cursor: pointer;
+}
+
+.tab5 .tab52 img{
+	position: absolute;
+	display: flex;
+	max-width: 35rem;
+	height: 35rem;
+    padding-left: 20rem;
+    top:229.3rem;
+    right: 2rem;
+    cursor: pointer;
+}	
+.tab5 .tab52 button{
+	position: absolute;
+	border-radius: 1rem;
+	right:27rem;
+	height: 2.5rem;
+	width: 5rem;
+	border: 0;
+	top:260rem;
+	right:20rem;
+	font-family: arial;
+	background-color: #FFF;
+	cursor: pointer;
+}
+.MN .MN2 {
+	font-family: arial;
+	font-size: 2rem;
+	padding-bottom: 0.5rem;
+	padding-top: 4rem;
+	padding-left: 2.1rem;
+}
+
+.bot {
+	display: flex;
+	background-color: 	#000000;
+	margin-top: 1rem;
+
+}
+.bot .column1 {
+	font-family:Georgia;
+	font-size: 0.8rem;
+	margin-top: 2rem;
+	color: white;
+	cursor: pointer;
+}
+.bot .column2 .help{
+	font-family:Georgia;
+	font-size: 0.8rem;
+	margin-top: 2rem;
+	color: white;
+	cursor: pointer;
+}
+.bot .column2 {
+	margin-left: 8rem;
+	font-family:Arial;
+	font-size: 0.8rem;
+	margin-top: 1rem;
+	color: gray;
+	cursor: pointer;
+}
+
+.bot .column3 .about{
+	font-family:Georgia;
+	font-size: 0.8rem;
+	margin-top: 2rem;
+	color: white;
+	cursor: pointer;
+}
+.bot .column3 {
+	margin-left: 14rem;
+	font-family:Arial;
+	font-size: 0.8rem;
+	margin-top: 1rem;
+	color: gray;
+	cursor: pointer;
+}
